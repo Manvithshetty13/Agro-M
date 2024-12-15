@@ -27,13 +27,21 @@ Farmer's Market is a web-based platform where local farmers can upload their pro
 
 ## Screenshots
 #### **1. Home Page**
-![Home Page](link_to_home_screenshot)
+![Home Page](Screenshots/Home.png)
 
 #### **2. Shop Page**
-![Shop Page](link_to_shop_screenshot)
+![Shop Page](Screenshots/Shop.png)
 
 #### **3. Cart Page**
-![Cart Page](link_to_cart_screenshot)
+![Cart Page](Screenshots/Cart.png)
+
+#### **4. Upload product Page**
+![Upload Page](Screenshots/UploadProduct.png)
+
+#### **5. Contact Us Page**
+![ContactUs Page](Screenshots/Contactus.png)
+
+
 
 ---
 
